@@ -1,0 +1,5 @@
+HOST = "irc.twitch.tv"
+PORT = 6667
+PASS = "oauth:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+IDENT = "my_twtich_screen_name"
+CHANNEL = "my_twtich_screen_name"
